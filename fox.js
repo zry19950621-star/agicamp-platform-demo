@@ -1,10 +1,10 @@
-// fox.js — 狐狸 IP 互动 & 页面小动效（独立于 app.js / navigation.js）
+// fox.js — 小松鼠 IP 互动 & 页面小动效（独立于 app.js / navigation.js）
 (function () {
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var fox = document.getElementById('heroFox');
   var wrap = fox ? fox.closest('.hero-fox-wrap') : null;
 
-  /* 1) 狐狸视差：鼠标在英雄区移动时，狐狸轻轻倾斜/位移 */
+  /* 1) 小松鼠视差：鼠标在英雄区移动时，小松鼠轻轻倾斜/位移 */
   if (false) { // 原视差已由 v9 的悬停 / 拖拽 / 滚动视差取代，避免 transform 打架
     var hero = document.querySelector('.agency-hero');
     var raf = null;
@@ -25,7 +25,7 @@
     });
   }
 
-  /* 2) 点狐狸：开心弹跳 + 迸出星星粒子 */
+  /* 2) 点小松鼠：开心弹跳 + 迸出星星粒子 */
   if (fox && !reduce) {
     var QUIPS = ['好想法，做成真。', '带个真问题来～', '一起解个题？', '咦，被你发现了！', '给好作品点个赞'];
     fox.addEventListener('click', function () {
@@ -113,7 +113,7 @@
   }
 })();
 
-/* ---- v9 狐狸互动增强：悬停呼吸 / 拖拽回弹 / 滚动视差 / 土屑粒子 / 连点彩蛋 ---- */
+/* ---- v9 小松鼠互动增强：悬停呼吸 / 拖拽回弹 / 滚动视差 / 土屑粒子 / 连点彩蛋 ---- */
 (function () {
   var fox = document.getElementById('heroFox');
   if (!fox) return;
@@ -125,7 +125,7 @@
     fox.addEventListener('pointerleave', function () { fox.classList.remove('hover-lift'); });
   }
 
-  /* B. 拖拽：可拖着狐狸挪一小段，松手弹回原位 */
+  /* B. 拖拽：可拖着小松鼠挪一小段，松手弹回原位 */
   if (!reduce) {
     var dragging = false, startX = 0, startY = 0, moved = 0;
     fox.addEventListener('pointerdown', function (e) {
@@ -153,7 +153,7 @@
     fox.addEventListener('click', function (e) { if (moved > 12) { e.stopPropagation(); } }, true);
   }
 
-  /* C. 滚动视差：往下滚时狐狸轻轻下沉 */
+  /* C. 滚动视差：往下滚时小松鼠轻轻下沉 */
   if (!reduce) {
     var ticking = false;
     window.addEventListener('scroll', function () {
@@ -182,7 +182,7 @@
         fox.classList.add('fox-pop');
         setTimeout(function () { fox.classList.remove('fox-pop'); }, 600);
         var q = document.querySelector('.fox-quips');
-        if (q) { q.textContent = '你戳了五下，狐狸决定躺平一会儿。'; q.classList.add('show'); setTimeout(function(){q.classList.remove('show')},2200); }
+        if (q) { q.textContent = '你戳了五下，小松鼠决定躺平一会儿。'; q.classList.add('show'); setTimeout(function(){q.classList.remove('show')},2200); }
       }
     });
   }
@@ -202,7 +202,7 @@
   }
 })();
 
-/* ---- v11：点狐狸 → 蹦出「模力揭榜」企业文件夹卡 ---- */
+/* ---- v11：点小松鼠 → 蹦出「模力揭榜」企业文件夹卡 ---- */
 (function () {
   var fox = document.getElementById('heroFox');
   if (!fox) return;
