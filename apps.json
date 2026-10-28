@@ -1,0 +1,672 @@
+[
+  {
+    "author": "白昼航线",
+    "description": "托管 Agent 会话、工具调用、沙箱与恢复流程",
+    "group": "latest",
+    "image": "./assets/original/app-0.png",
+    "name": "OpenAI Agents API",
+    "id": 0,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "AI Agent",
+    "desc": "托管 Agent 会话、工具调用、沙箱与恢复流程",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "AI Agent"
+    ],
+    "color": "orange",
+    "scene": "托管 Agent 会话、工具调用、沙箱与恢复流程",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=OpenAI%20Agents%20API",
+    "linkType": "search"
+  },
+  {
+    "author": "模力字节控",
+    "description": "让 AI 走进产业现场",
+    "group": "latest",
+    "image": "./assets/original/app-1.png",
+    "name": "QINGXI-AI",
+    "id": 1,
+    "kind": "app",
+    "cat": "行业应用",
+    "industry": "制造工业",
+    "role": "产品与项目",
+    "cap": "AI Agent",
+    "desc": "让 AI 走进产业现场",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "行业应用",
+      "AI Agent"
+    ],
+    "color": "blue",
+    "scene": "让 AI 走进产业现场",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=QINGXI-AI",
+    "linkType": "search"
+  },
+  {
+    "author": "启程",
+    "description": "全部免费的出海 SEO 工具与模拟器，实战提炼，开箱即用",
+    "group": "latest",
+    "image": "./assets/original/app-2.png",
+    "name": "哥飞的 SEO 工具箱",
+    "id": 2,
+    "kind": "app",
+    "cat": "营销运营",
+    "industry": "软件互联网",
+    "role": "市场与销售",
+    "cap": "营销增长",
+    "desc": "全部免费的出海 SEO 工具与模拟器，实战提炼，开箱即用",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "营销运营",
+      "营销增长"
+    ],
+    "color": "green",
+    "scene": "全部免费的出海 SEO 工具与模拟器，实战提炼，开箱即用",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E5%93%A5%E9%A3%9E%E7%9A%84%20SEO%20%E5%B7%A5%E5%85%B7%E7%AE%B1",
+    "linkType": "search"
+  },
+  {
+    "author": "Struct.Y",
+    "description": "用 AI 辅助整理经历与作品，做成用于求职、合作的个人主页。",
+    "group": "latest",
+    "image": "./assets/original/app-3.png",
+    "name": "自我花园 Self Garden",
+    "id": 3,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "产品与项目",
+    "cap": "办公效率",
+    "desc": "用 AI 辅助整理经历与作品，做成用于求职、合作的个人主页。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率"
+    ],
+    "color": "purple",
+    "scene": "用 AI 辅助整理经历与作品，做成用于求职、合作的个人主页。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E8%87%AA%E6%88%91%E8%8A%B1%E5%9B%AD%20Self%20Garden",
+    "linkType": "search"
+  },
+  {
+    "author": "启程",
+    "description": "打字摸鱼进度诗生成器——自定义敲击目标，让工作长出一句诗",
+    "group": "latest",
+    "image": "./assets/original/app-4.png",
+    "name": "敲诗",
+    "id": 4,
+    "kind": "app",
+    "cat": "创意工具",
+    "industry": "跨行业通用",
+    "role": "运营",
+    "cap": "写作生成",
+    "desc": "打字摸鱼进度诗生成器——自定义敲击目标，让工作长出一句诗",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "创意工具",
+      "写作生成"
+    ],
+    "color": "orange",
+    "scene": "打字摸鱼进度诗生成器——自定义敲击目标，让工作长出一句诗",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E6%95%B2%E8%AF%97",
+    "linkType": "search"
+  },
+  {
+    "author": "陆通",
+    "description": "AI生成漫剧，一键创作专属漫画短剧",
+    "group": "latest",
+    "image": "./assets/original/app-5.png",
+    "name": "爱酷漫剧",
+    "id": 5,
+    "kind": "app",
+    "cat": "营销运营",
+    "industry": "内容传媒",
+    "role": "运营",
+    "cap": "图像创作",
+    "desc": "AI生成漫剧，一键创作专属漫画短剧",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "营销运营",
+      "图像创作"
+    ],
+    "color": "blue",
+    "scene": "AI生成漫剧，一键创作专属漫画短剧",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E7%88%B1%E9%85%B7%E6%BC%AB%E5%89%A7",
+    "linkType": "search"
+  },
+  {
+    "author": "云端拾贝",
+    "description": "面向 HarmonyOS 开发的 AI 编码与工程助手",
+    "group": "latest",
+    "image": "./assets/original/app-6.png",
+    "name": "DevEco Code",
+    "id": 6,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "代码开发",
+    "desc": "面向 HarmonyOS 开发的 AI 编码与工程助手",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "代码开发"
+    ],
+    "color": "green",
+    "scene": "面向 HarmonyOS 开发的 AI 编码与工程助手",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=DevEco%20Code",
+    "linkType": "search"
+  },
+  {
+    "author": "星河漫游",
+    "description": "让AI像研发工程师一样参与团队全流程",
+    "group": "latest",
+    "image": "./assets/original/app-7.png",
+    "name": "CodeM",
+    "id": 7,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "代码开发",
+    "desc": "让AI像研发工程师一样参与团队全流程",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "代码开发"
+    ],
+    "color": "purple",
+    "scene": "让AI像研发工程师一样参与团队全流程",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=CodeM",
+    "linkType": "search"
+  },
+  {
+    "author": "像素旅人",
+    "description": "为AI代理与RAG应用提供实时网页搜索与内容抓取能力",
+    "group": "latest",
+    "image": "./assets/original/app-8.png",
+    "name": "Search & Fetch",
+    "id": 8,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "搜索问答",
+    "desc": "为AI代理与RAG应用提供实时网页搜索与内容抓取能力",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "搜索问答"
+    ],
+    "color": "orange",
+    "scene": "为AI代理与RAG应用提供实时网页搜索与内容抓取能力",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=Search%20%26%20Fetch",
+    "linkType": "search"
+  },
+  {
+    "author": "远山来信",
+    "description": "为多种 AI Agent 提供可持续、可迁移的长期记忆",
+    "group": "latest",
+    "image": "./assets/original/app-9.png",
+    "name": "Hy Memory",
+    "id": 9,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "AI Agent",
+    "desc": "为多种 AI Agent 提供可持续、可迁移的长期记忆",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "AI Agent"
+    ],
+    "color": "blue",
+    "scene": "为多种 AI Agent 提供可持续、可迁移的长期记忆",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=Hy%20Memory",
+    "linkType": "search"
+  },
+  {
+    "author": "微光随笔",
+    "description": "始终在线的AI同事，无缝穿梭于文本、通话与Slack之间",
+    "group": "latest",
+    "image": "./assets/original/app-10.png",
+    "name": "OpenDots",
+    "id": 10,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "运营",
+    "cap": "AI Agent",
+    "desc": "始终在线的AI同事，无缝穿梭于文本、通话与Slack之间",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率",
+      "AI Agent"
+    ],
+    "color": "green",
+    "scene": "始终在线的AI同事，无缝穿梭于文本、通话与Slack之间",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=OpenDots",
+    "linkType": "search"
+  },
+  {
+    "author": "午后回声",
+    "description": "在 git push 前检查开发者是否真正理解代码改动",
+    "group": "latest",
+    "image": "./assets/original/app-11.png",
+    "name": "Sphinx",
+    "id": 11,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "代码开发",
+    "desc": "在 git push 前检查开发者是否真正理解代码改动",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "代码开发"
+    ],
+    "color": "purple",
+    "scene": "在 git push 前检查开发者是否真正理解代码改动",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=Sphinx",
+    "linkType": "search"
+  },
+  {
+    "author": "爱图表（aitubiao.com）",
+    "description": "爱图表，就是AI图表",
+    "group": "popular",
+    "image": "./assets/original/app-12.png",
+    "name": "爱图表（aitubiao.com）",
+    "id": 12,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "市场与销售",
+    "cap": "数据分析",
+    "desc": "用 AI 辅助图表制作与信息可视化。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率",
+      "数据分析"
+    ],
+    "color": "orange",
+    "scene": "用 AI 辅助图表制作与信息可视化。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/products/aitubiao",
+    "linkType": "detail"
+  },
+  {
+    "author": "万象",
+    "description": "懂组件、通布局、强逻辑，复杂业务生码游刃有余！",
+    "group": "popular",
+    "image": "./assets/original/app-13.png",
+    "name": "万象代码生成平台",
+    "id": 13,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "代码开发",
+    "desc": "从设计稿出发，辅助生成 UI 代码与交互。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "代码开发"
+    ],
+    "color": "blue",
+    "scene": "从设计稿出发，辅助生成 UI 代码与交互。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/products/wanxiang",
+    "linkType": "detail"
+  },
+  {
+    "author": "毛毛",
+    "description": "无需代码，Easy微调",
+    "group": "popular",
+    "image": "./assets/original/app-14.png",
+    "name": "LLaMA-Factory Online",
+    "id": 14,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "教育科研",
+    "role": "研发与技术",
+    "cap": "模型训练",
+    "desc": "在线探索大模型训练与微调。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "模型训练"
+    ],
+    "color": "green",
+    "scene": "在线探索大模型训练与微调。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/products/LLaMA-FactoryOnline",
+    "linkType": "detail"
+  },
+  {
+    "author": "霍太稳@极客邦科技",
+    "description": "一个每天发现好用的 AI 应用的社区",
+    "group": "popular",
+    "image": "./assets/original/app-15.png",
+    "name": "模力工场·AGICamp",
+    "id": 15,
+    "kind": "app",
+    "cat": "社区工具",
+    "industry": "跨行业通用",
+    "role": "产品与项目",
+    "cap": "办公效率",
+    "desc": "发现 AI 应用、分享作品与使用经验。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "社区工具",
+      "办公效率"
+    ],
+    "color": "purple",
+    "scene": "发现 AI 应用、分享作品与使用经验。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E6%A8%A1%E5%8A%9B%E5%B7%A5%E5%9C%BA%C2%B7AGICamp",
+    "linkType": "search"
+  },
+  {
+    "author": "Jetty",
+    "description": "以最快的速度、最低的成本，生成得分最高的标书！",
+    "group": "popular",
+    "image": "./assets/original/app-16.png",
+    "name": "智能投标助手",
+    "id": 16,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "市场与销售",
+    "cap": "写作生成",
+    "desc": "辅助标书内容整理与编写。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率",
+      "写作生成"
+    ],
+    "color": "orange",
+    "scene": "辅助标书内容整理与编写。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E6%99%BA%E8%83%BD%E6%8A%95%E6%A0%87%E5%8A%A9%E6%89%8B",
+    "linkType": "search"
+  },
+  {
+    "author": "零食拜拜嘞",
+    "description": "5分钟速学2小时视频，10X你的学习工作效率",
+    "group": "popular",
+    "image": "./assets/original/app-17.png",
+    "name": "Ai好记",
+    "id": 17,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "运营",
+    "cap": "写作生成",
+    "desc": "将音视频转为文字记录、摘要与知识资料。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率",
+      "写作生成"
+    ],
+    "color": "blue",
+    "scene": "将音视频转为文字记录、摘要与知识资料。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/products/ai-hao-ji",
+    "linkType": "detail"
+  },
+  {
+    "author": "海星",
+    "description": "用AI自动投简历！",
+    "group": "popular",
+    "image": "./assets/original/app-18.png",
+    "name": "一键职达",
+    "id": 18,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "产品与项目",
+    "cap": "办公效率",
+    "desc": "用AI自动投简历！",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率"
+    ],
+    "color": "green",
+    "scene": "用AI自动投简历！",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E4%B8%80%E9%94%AE%E8%81%8C%E8%BE%BE",
+    "linkType": "search"
+  },
+  {
+    "author": "爱倒腾的程序员",
+    "description": "时序数据分析 AI 智能体，仅需一行 SQL 即可轻松体验。",
+    "group": "popular",
+    "image": "./assets/original/app-19.png",
+    "name": "TDgpt",
+    "id": 19,
+    "kind": "app",
+    "cat": "行业应用",
+    "industry": "制造工业",
+    "role": "研发与技术",
+    "cap": "数据分析",
+    "desc": "时序数据分析 AI 智能体，仅需一行 SQL 即可轻松体验。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "行业应用",
+      "数据分析"
+    ],
+    "color": "purple",
+    "scene": "时序数据分析 AI 智能体，仅需一行 SQL 即可轻松体验。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=TDgpt",
+    "linkType": "search"
+  },
+  {
+    "author": "聆木听风",
+    "description": "Unicorn Hunter: 不仅为面试官打造利器，也为求职者点亮明灯。双向赋能，让每一次的相遇，都精准高效。",
+    "group": "popular",
+    "image": "./assets/original/app-20.png",
+    "name": "Unicorn Hunter",
+    "id": 20,
+    "kind": "app",
+    "cat": "办公效率",
+    "industry": "跨行业通用",
+    "role": "产品与项目",
+    "cap": "搜索问答",
+    "desc": "辅助招聘与求职中的信息整理和匹配。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "办公效率",
+      "搜索问答"
+    ],
+    "color": "orange",
+    "scene": "辅助招聘与求职中的信息整理和匹配。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=Unicorn%20Hunter",
+    "linkType": "search"
+  },
+  {
+    "author": "蓝耘元生代",
+    "description": "重构AI算力生产关系，打造算力、数据、模型三位一体的全栈赋能平台，驱动千行百业智能升级。",
+    "group": "popular",
+    "image": "./assets/original/app-21.png",
+    "name": "蓝耘元生代",
+    "id": 21,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "软件互联网",
+    "role": "研发与技术",
+    "cap": "模型训练",
+    "desc": "连接算力、数据与模型资源。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "模型训练"
+    ],
+    "color": "blue",
+    "scene": "连接算力、数据与模型资源。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=%E8%93%9D%E8%80%98%E5%85%83%E7%94%9F%E4%BB%A3",
+    "linkType": "search"
+  },
+  {
+    "author": "叮",
+    "description": "Lab4AI是高性能GPU场景的实操平台，致力于通过AI构建一体化论文阅读、复现与创新服务，提供课程+实操一站式服务。",
+    "group": "popular",
+    "image": "./assets/original/app-22.png",
+    "name": "Lab4AI大模型实验室",
+    "id": 22,
+    "kind": "app",
+    "cat": "开发工具",
+    "industry": "教育科研",
+    "role": "研发与技术",
+    "cap": "模型训练",
+    "desc": "围绕论文阅读、复现与 GPU 实操的学习平台。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "开发工具",
+      "模型训练"
+    ],
+    "color": "green",
+    "scene": "围绕论文阅读、复现与 GPU 实操的学习平台。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/search?query=Lab4AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4",
+    "linkType": "search"
+  },
+  {
+    "author": "Muji",
+    "description": "内容驱动排版（Content in, Design out），汉字准确，图层可编辑的零门槛 AI 设计与图文创作平台",
+    "group": "popular",
+    "image": "./assets/original/app-23.png",
+    "name": "Seede AI",
+    "id": 23,
+    "kind": "app",
+    "cat": "营销运营",
+    "industry": "内容传媒",
+    "role": "运营",
+    "cap": "图像创作",
+    "desc": "面向图文设计与内容排版的 AI 创作工具。",
+    "source": "https://agicamp.com/",
+    "tags": [
+      "营销运营",
+      "图像创作"
+    ],
+    "color": "purple",
+    "scene": "面向图文设计与内容排版的 AI 创作工具。",
+    "steps": [
+      "查看原站产品介绍与使用条件",
+      "用范围明确的小任务试用并复核结果",
+      "如需业务接入，再评估系统、数据与权限要求"
+    ],
+    "link": "https://agicamp.com/products/seedeai",
+    "linkType": "detail"
+  }
+]
